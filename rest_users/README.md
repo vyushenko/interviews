@@ -4,9 +4,9 @@ The intent of the problem is to create a simple web service that allows all basi
 
 Requirements
 ============
-1. Create a web service that allows to manipulate list of users.
-2. Store all data in memory. There is no need to persist - so everything will be lost when server is restarted.
-3. You are free to define input and output data structures and any endpoints that you will need.
+1. Create a web service that allows to manipulate a list of users.
+2. Please define input and output data structures and any endpoints that are needed.
+3. Store all data in memory. There is no need to persist any data, and that means that everything will be lost when server is restarted.
 
 Keep the Following In Mind
 --------------------------
