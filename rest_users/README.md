@@ -16,11 +16,7 @@ Keep the Following In Mind
     - Runnable from the command line of a Unix-like system.
     - Demonstrate qualities of reliable and easy to maintain code.
 3. Test cases are expected. We rely heavily on tests, so good tests are important to us.
-4. You can use any programming language, though a JVM based language is preferred.
-5. You can use open source libraries to parse and output data. We're not crazy - you're not expected to write a JSON parser.
+4. You can use any programming language.
+5. You can use open source libraries to parse and output data.
 6. Document how to run the program in a file named RUNME.txt
-    - Assume a Unix-like OS such as Linux, BSD, or OS X
-    - The exact commands used to build the program
-    - The exact commands used to run unit tests
-    - The exact commands used to execute the program
 7. Be prepared to discuss your solution, choices, and tradeoffs.
